@@ -23,6 +23,9 @@ dependencies {
 
     // https://mvnrepository.com/artifact/org.mockito/mockito-all
     testCompile group: 'org.mockito', name: 'mockito-all', version: '1.9.5'
+    // https://mvnrepository.com/artifact/junitperf/junitperf
+    testCompile group: 'junitperf', name: 'junitperf', version: '1.8'
+
 
 }
 
